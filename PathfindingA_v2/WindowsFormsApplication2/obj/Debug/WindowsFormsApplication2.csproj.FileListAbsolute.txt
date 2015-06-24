@@ -1,0 +1,9 @@
+C:\Users\Brocco\Documents\NAVE\C#\PathfindingA\PathfindingA_v2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Brocco\Documents\NAVE\C#\PathfindingA\PathfindingA_v2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Brocco\Documents\NAVE\C#\PathfindingA\PathfindingA_v2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Brocco\Documents\NAVE\C#\PathfindingA\PathfindingA_v2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Brocco\Documents\NAVE\C#\PathfindingA\PathfindingA_v2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Brocco\Documents\NAVE\C#\PathfindingA\PathfindingA_v2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Brocco\Documents\NAVE\C#\PathfindingA\PathfindingA_v2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Brocco\Documents\NAVE\C#\PathfindingA\PathfindingA_v2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Brocco\Documents\NAVE\C#\PathfindingA\PathfindingA_v2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
